@@ -2,7 +2,9 @@
 
 ## Ausgangssituation
 
-Wir sollen ein Softwareprojekt planen und umsetzen, um die Planung eines Projekts und Nutzung unserer Projektmanagement Tools zu üben. Die dabei gewonnene Erfahrung soll uns für unsere künftige Diplomarbeit unterstützen.
+Wir sollen ein Softwareprojekt planen und umsetzen. Dadurch üben wir folgendes:
+Die Planung eines Projekts und die Nutzung unserer Projektmanagement Tools.
+Die dabei gewonnene Erfahrung soll uns für unsere künftige Diplomarbeit unterstützen.
 
 ---
 
