@@ -10,8 +10,9 @@ Die dabei gewonnene Erfahrung soll uns für unsere künftige Diplomarbeit unters
 
 ## Projektziele
 
-Ein rundenbasiertes Strategiespiel:
-{Beschreibung des Spiels hier einfügen}
+TBSC ist ein typisches rundenbasiertes Strategiespiel. Das heißt, dass die Karte wie ein Schachbrett in einzelne Felder unterteilt ist.
+{Projektbeschreibung fertigstellen.}
+{Meilensteine mit Terminen.)
 
 - Lokales Spiel mit mehreren Spielern
 - Lokales Spiel mit KI-Gegnern
