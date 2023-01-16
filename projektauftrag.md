@@ -11,6 +11,7 @@ Die dabei gewonnene Erfahrung soll uns für unsere künftige Diplomarbeit unters
 ## Projektziele
 
 Ein rundenbasiertes Strategiespiel:
+{Beschreibung des Spiels hier einfügen}
 
 - Lokales Spiel mit mehreren Spielern
 - Lokales Spiel mit KI-Gegnern
