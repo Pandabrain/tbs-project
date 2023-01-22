@@ -15,30 +15,39 @@ Ziel des Spiels ist es, die vom Level vorgegebenen Einheiten des/der Gegners/Geg
 Das Spiel soll folgende Features unterstützen:
 
 - Lokales Spiel mit mehreren Spielern
+
 Ein Spiel soll, von mehreren Spielern/Spielerinnen, am selben PC gespielt werden können. Da die Spieler/innen abwechselnd an der Reihe sind, kann die Steuerung einfach an die Mitspieler/innen abgegeben werden.
 
 - Lokales Spiel mit KI-Gegnern
+
 Beliebig viele Mitspieler/innen sollen durch eine/n vom PC gesteuerte/n Mitspieler/in ersetzt werden können.
 
 - Multiplayerspiele über Netzwerk (über dedizierten Server)
+
 Ein Spiel soll über einen dedizierten Server miteinander spielbar sein. D.h. Spieler/innen können mit ihrem PC online an einem Match teilnehmen.
 
 - Savegame Management (Spiel laden/speichern)
+
 Der aktuelle Stand eines Spiels, (Position und HP der Spielfiguren, etc.) soll auf der Festplatte gespeichert, und zu einem späteren Zeitpunkt wieder fortgesetzt werden können.
 
 - Unterschiedliche Anzahl Spieler/innen
+
 Ein Spiel muss von mindestens 2 Spielern/Spielerinnen (egal ob Mensch oder CPU gesteuert) gespielt werden. Die maximale Anzahl an Mitspieler/innen wird durch den gespielten Level bestimmt.
 
 - Verschiedene Maps
+
 Es soll möglich sein, unterschiedliche Level/Maps zu spielen. Diese können sich durch Größe, Terrain und Maximale Spieleranzahl unterscheiden.
 
 - Player/Character Progression
+
 Wird online gespielt, können durch Siege und andere Aktionen, wie das zerstören von gegnerischen Spielfiguren, Punkte gesammelt werden. Diese Punkte können die Eigenschaften der eigenen Spielfiguren verbessern. In einem Spiel mit menschlichen Mitspielern muss jedoch eine Option für ein faires Spiel gegeben werden, denn ein/e Spieler/in mit mehr Punkten als seine Mitspieler/innen hätte sonst einen unfairen Vorteil. Die konkrete Umsetzung wird durch das Projketteam während der Umsetzung bestimmt. Eine Möglichkeit wäre, die Progression in einem Spiel nur gegen CPU Gegner nutzen zu können.
 
 - Punkte Vergabe um Einheiten auszuwählen bzw. aufzuwerten
+
 Ein Punkte System soll erstellt werden, durch das ein Spieler vor Beginn eines Spiels seine Spielfiguren kaufen oder aufwerten kann. Durch diese Variation wird der Wiederspielwert der Levels erhöht. Das Feature Player Progression kann hierauf aufbauen und beispielsweise die Menge an zu vergebenden Punkten erhöhen. Das Projektteam muss hierbei während der Entwicklung eine sinnvolle Umsetzug dieses Features bestimmen.
 
 - Felder mit unterschiedlichem Terrain und unterschiedlichen Eignschaften
+
 Felder sollen einem bestimmten Typ angehören und dementsprechende Eigenschaften besitzen. Beispiele:
 Wald: Verringerte Bewegungsreichweite wenn eine Spielfigur durch dieses Feld bewegt wird. Wird eine hier positionierte Spielfigur angegriffen nimmt sie weniger Schaden. 
 Straße: Normale Bewegungsreichweite. Ein Angriff durch den Gegner erfolgt in voller Stärke, wenn die Spielfigur auf diesem Feld attackiert wird.
