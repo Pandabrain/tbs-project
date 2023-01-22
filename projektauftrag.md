@@ -62,7 +62,6 @@ Krankenhaus: Einheiten, die auf diesem Feld platziert werden, bekommen am Ende d
 
 Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaften sollen durch das Projektteam während der Entwicklung sinnvol gewählt werden.
 
-{Meilensteine mit Terminen.)
 
 ## Nicht-Ziele
 
@@ -129,3 +128,8 @@ Verwendete Werkzeuge: Visual Studio, Goland, Rider, Unity.
 | Bammer Bernhard           |                                   |
 | Qi Tong Zheng             |                                   |
 | Christoph Rechtlehner     |                                   |
+
+Aufgabenbereiche:
+Entwicklung des Unity Game Clients: Bammer Bernhard, Qi Tong Zheng
+Entwicklung des Server Backends sowie Implementierung der Serverkommunikation im Client: Christoph Rechtlehner
+Level und Game Design: Bammer Bernhard, Qi Tong Zheng, Christoph Rechtlehner  
