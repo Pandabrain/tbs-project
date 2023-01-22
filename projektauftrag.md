@@ -73,7 +73,7 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 
 ## Projektinhalte
 
-- Spielbrett Erstellung planen (Framework oder selbst machen)
+- Spielbrett Erstellung planen (bzw. Framework lernen)
 - Spielbrett erstellen
 - Spieler Steuerung erstellen/umsetzen
 - Kampfsystem erstellen
@@ -81,19 +81,24 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 - Terrain Eigenschaften implementieren
 - Spielelogik/Ablauf programmieren (Start/Siegesbedingungen)
 - Auswahlmenü (Anzahl Spieler, KI/Mensch, etc.)
+- HUD und Statsanzeige der Spielfigueren
 - Menü für Character Auswahl
 - Menü für Progression
 - Menü für online Login
 - KI Gegner erstellen
 - Current State import/export (Für Savegame und Netzwerk Synchronisation)
 - Spiel speichern und laden implementieren
+- Laden von unterschiedlichen Maps ermöglichen
+- Spielablauf mit Animationen verbessern
 - Server: Websocket Kommunikation erstellen
 - Server: Session Handling
 - Server: Login erstellen
+- Server: Sync bei Client disconnect/reconnect ermöglichen
 - Server: Progression speichern
 - Client: Kommunikation mit Server implementieren
-- Laden von unterschiedlichen Maps ermöglichen
-- Spielablauf mit Animationen verbessern
+- Client/Server: Backend als lokalen Service starten, um ohne dedizierten Server ein Netzwerkspiel spielen zu können.
+- Server sync: Steigt/fällt der Host aus, soll ein anderer Host übernehmen können.
+- Client: Lokales Profil für Player Progression ermöglichen -> Progression lokal speichern (auch wenn online gespielt wurde), aber sync mit lokalen Einträgen und Serverseitiger Plausibilitätsprüfung
 
 ---
 
@@ -101,9 +106,11 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 
 - Ein Spiel muss mit mehreren Spielern lokal spielbar bis zum Ende sein.
 
-## Termine
+## Termine und Meilensteine
 
-26.02.2022 
+26.02.2023 Proof of concept Build fertiggestellt. (Durch Framework bereitgestelltes Grundgerüst eingesetzt.)
+19.03.2023 Grundlegendes Gameplay fertig gestellt: Eigenschaften der Spielfiguren und des Terrains implementiert, Kampsystem einsetzbar. 
+12.03.2023 Spiel grundlegend spielbar. Menüs und HUD existieren, Sigesbedingung ist implementiert
 - Projektende: **genaues Datum unbekannt**
 
 ---
