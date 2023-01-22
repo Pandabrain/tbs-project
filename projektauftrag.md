@@ -33,10 +33,17 @@ Ein Spiel muss von mindestens 2 Spielern/Spielerinnen (egal ob Mensch oder CPU g
 Es soll möglich sein, unterschiedliche Level/Maps zu spielen. Diese können sich durch Größe, Terrain und Maximale Spieleranzahl unterscheiden.
 
 - Player/Character Progression
-Wird online gespielt, werden Charactere 
+Wird online gespielt, können durch Siege und andere Aktionen, wie das zerstören von gegnerischen Spielfiguren, Punkte gesammelt werden. Diese Punkte können die Eigenschaften der eigenen Spielfiguren verbessern. In einem Spiel mit menschlichen Mitspielern muss jedoch eine Option für ein faires Spiel gegeben werden, denn ein/e Spieler/in mit mehr Punkten als seine Mitspieler/innen hätte sonst einen unfairen Vorteil. Die konkrete Umsetzung wird durch das Projketteam während der Umsetzung bestimmt. Eine Möglichkeit wäre, die Progression in einem Spiel nur gegen CPU Gegner nutzen zu können.
 
 - Punkte Vergabe um Einheiten auszuwählen bzw. aufzuwerten
+Ein Punkte System soll erstellt werden, durch das ein Spieler vor Beginn eines Spiels seine Spielfiguren kaufen oder aufwerten kann. Durch diese Variation wird der Wiederspielwert der Levels erhöht. Das Feature Player Progression kann hierauf aufbauen und beispielsweise die Menge an zu vergebenden Punkten erhöhen. Das Projektteam muss hierbei während der Entwicklung eine sinnvolle Umsetzug dieses Features bestimmen.
+
 - Felder mit unterschiedlichem Terrain und unterschiedlichen Eignschaften
+Felder sollen einem bestimmten Typ angehören und dementsprechende Eigenschaften besitzen. Beispiele:
+Wald: Verringerte Bewegungsreichweite wenn eine Spielfigur durch dieses Feld bewegt wird. Wird eine hier positionierte Spielfigur angegriffen nimmt sie weniger Schaden. 
+Straße: Normale Bewegungsreichweite. Ein Angriff durch den Gegner erfolgt in voller Stärke, wenn die Spielfigur auf diesem Feld attackiert wird.
+Krankenhaus: Einheiten, die auf diesem Feld platziert werden, bekommen am Ende der Runde X Gesundheitspunkte zurück.
+Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaften sollen durch das Projektteam während der Entwicklung sinnvol gewählt werden.
 
 {Meilensteine mit Terminen.)
 
