@@ -123,7 +123,7 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 - 07.05.2023 Online Spielesessions sind vollständig implementiert: Spiele können online gespeichert und fortgesetzt werden. Ausfallende Teilnehmer können  wiedereinsteigen.
 - 04.06.2023 Client zu Client Verbindung fertiggestellt. Spiel kann ohne dedizierten Server über Netzwerk gespielt werden.
 
-- Projektende: **genaues Datum unbekannt**
+Projektende: **genaues Datum unbekannt**
 
 ---
 
