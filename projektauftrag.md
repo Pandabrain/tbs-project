@@ -10,7 +10,9 @@ Die dabei gewonnene Erfahrung soll uns für unsere künftige Diplomarbeit unters
 
 ## Projektziele
 
-TBSC ist ein typisches rundenbasiertes Strategiespiel. Das heißt, dass die Karte wie ein Schachbrett in einzelne Felder unterteilt ist.
+TBSP ist ein typisches rundenbasiertes Strategiespiel. Das heißt, dass die Karte wie ein Schachbrett in einzelne Felder unterteilt ist, und die Mitspieler/innen reihum abwechselnd zum Zug kommen. Ist ein/e Spieler/in an der Reihe, kann er/sie (optional) beliebig viele seiner/ihrer Figuren bewegen und (ebenfalls optional) eine Aktion der Figur starten. Aktionen können Angriffe sein, aber auch eine unterstützende Aktion (z.B. Heilung). Nach einer Aktion kann die Spielfigur, die die Aktion ausgeführt hat, nicht mehr bewegt werden. Die Bewegungs- und Angriffsreichweite ist von den Eigenschaften der jeweiligen Figur abhängig, aber auch von den Eigenschaften des Feldes, das für die Aktion relevant ist. So ermöglicht ein Feld vom Typ Straße, eine höhere Reichweite, als beispielsweise ein Feld vom Typ Wald. Allerdings nimmt  eine Spielfigur weniger Schaden, wenn diese auf einem Feld vom Typ Wald attackiert wird, da, wie in der echten Welt, ein Wald Schutz vor gegnerischen Pfeilen bieten kann.
+Ziel des Spiels ist es, die vom Level vorgegebenen Einheiten des Gegners zu zerstören.
+
 {Projektbeschreibung fertigstellen.}
 {Meilensteine mit Terminen.)
 
