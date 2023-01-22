@@ -1,4 +1,4 @@
-# Projekt: TBSP - Turn Based Strategy Project (Working Title)
+# Projekt: TBSP - Turn Based Strategy Project
 
 ## Ausgangssituation
 
