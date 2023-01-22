@@ -54,9 +54,11 @@ Felder sollen einem bestimmten Typ angehören und dementsprechende Eigenschaften
 
 Beispiele:
 
--- Wald: Verringerte Bewegungsreichweite wenn eine Spielfigur durch dieses Feld bewegt wird. Wird eine hier positionierte Spielfigur angegriffen nimmt sie weniger Schaden. 
--- Straße: Normale Bewegungsreichweite. Ein Angriff durch den Gegner erfolgt in voller Stärke, wenn die Spielfigur auf diesem Feld attackiert wird.
--- Krankenhaus: Einheiten, die auf diesem Feld platziert werden, bekommen am Ende der Runde X Gesundheitspunkte zurück.
+Wald: Verringerte Bewegungsreichweite wenn eine Spielfigur durch dieses Feld bewegt wird. Wird eine hier positionierte Spielfigur angegriffen nimmt sie weniger Schaden. 
+
+Straße: Normale Bewegungsreichweite. Ein Angriff durch den Gegner erfolgt in voller Stärke, wenn die Spielfigur auf diesem Feld attackiert wird.
+
+Krankenhaus: Einheiten, die auf diesem Feld platziert werden, bekommen am Ende der Runde X Gesundheitspunkte zurück.
 
 Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaften sollen durch das Projektteam während der Entwicklung sinnvol gewählt werden.
 
