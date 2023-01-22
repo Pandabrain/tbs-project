@@ -91,8 +91,9 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 - Laden von unterschiedlichen Maps ermöglichen
 - Spielablauf mit Animationen verbessern
 - Server: Websocket Kommunikation erstellen
-- Server: Session Handling
+- Server: Datenbank implementieren. (Sqlite für lokalen Service, PostgreSQL für online Server)
 - Server: Login erstellen
+- Server: Session Handling (Session speichern/laden, 
 - Server: Sync bei Client disconnect/reconnect ermöglichen
 - Server: Progression speichern
 - Client: Kommunikation mit Server implementieren
@@ -108,9 +109,20 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 
 ## Termine und Meilensteine
 
-26.02.2023 Proof of concept Build fertiggestellt. (Durch Framework bereitgestelltes Grundgerüst eingesetzt.)
-19.03.2023 Grundlegendes Gameplay fertig gestellt: Eigenschaften der Spielfiguren und des Terrains implementiert, Kampsystem einsetzbar. 
-12.03.2023 Spiel grundlegend spielbar. Menüs und HUD existieren, Sigesbedingung ist implementiert
+**Client:**
+- 26.02.2023 Proof of concept Build fertiggestellt. (Durch Framework bereitgestelltes Grundgerüst eingesetzt.)
+- 26.03.2023 Grundlegendes Gameplay fertig gestellt: Eigenschaften der Spielfiguren und des Terrains implementiert, Kampsystem einsetzbar. 
+- 16.04.2023 Alpha Version: Spiel grundlegend spielbar: Menüs und HUD existieren, Sigesbedingung ist implementiert, Player Progression ist implementiert.
+- 14.05.2023 Spiel gegen KI Gegner möglich. Speichern und laden möglich.
+- 28.05.2023 Spiel fertig gestellt. Es gibt unterschiedliche Maps/Level zur Auswahl.
+
+**Server:**
+- 19.02.2023 Client kann mit Server kommunizieren. Datenbankgrundgerüst aufgebaut.
+- 19.03.2023 Spielzüge werden zwischen Clients kommuniziert.
+- 09.04.2023 Profilverwaltung fertig. Spieler können sich registrieren, anmelden und ihr Fortschritt wird online synchronisiert.
+- 07.05.2023 Online Spielesessions sind vollständig implementiert: Spiele können online gespeichert und fortgesetzt werden. Ausfallende Teilnehmer können  wiedereinsteigen.
+- 04.06.2023 Client zu Client Verbindung fertiggestellt. Spiel kann ohne dedizierten Server über Netzwerk gespielt werden.
+
 - Projektende: **genaues Datum unbekannt**
 
 ---
