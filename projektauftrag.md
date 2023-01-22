@@ -68,7 +68,7 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 
 - Spiel darf normalen Netzwerkverkehr nicht unnötig stören.
 - Spiel darf lokale Ressourcen nicht so stark ausnutzen, dass es die Benutzung des PCs einschränkt.
-- Spiel darf nicht zu lange dauern.
+- Runde darf nicht zu lange dauern um die Mitspieler nicht zu demotivieren.
 
 ---
 
