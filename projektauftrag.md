@@ -90,7 +90,7 @@ Die tatsächlich verfügbaren Arten von Terrain, Gebäuden und deren Eigenschaft
 - Spiel speichern und laden implementieren
 - Laden von unterschiedlichen Maps ermöglichen
 - Spielablauf mit Animationen verbessern
-- Server: Websocket Kommunikation erstellen
+- Server: Websocket Kommunikation erstellen (in Go)
 - Server: Datenbank implementieren. (Sqlite für lokalen Service, PostgreSQL für online Server)
 - Server: Login erstellen
 - Server: Session Handling (Session speichern/laden, 
